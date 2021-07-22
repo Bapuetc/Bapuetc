@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bapu Pradhan
 - 👀 I’m interested in ... Web and Mobile Application Development
-- 🌱 I’m currently learning ... React JS
+- 🌱 I know React Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email @ bapuetc94@gmail.com
 
